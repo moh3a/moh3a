@@ -6,7 +6,7 @@
   <h3>🔌 My most used tech...</h3>
   
   <a>
-    <img width="33%" alt="top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moh3a&theme=transparent&size_weight=0.5&count_weight=0.5&langs_count=8&layout=compact" />
+    <img width="40%" alt="top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moh3a&theme=transparent&size_weight=0.5&count_weight=0.5&langs_count=8&layout=compact" />
   </a>
 
   <p>
@@ -45,8 +45,8 @@
 <div>
   <h3>🔨The project I am currently working on...</h3>
 
-  <a href="https://github.com/moh3a">
-    <img width="33%" align="center" alt="Readme card" src="https://github-readme-stats.vercel.app/api/pin/?username=moh3a&repo=reglini&theme=transparent" />
+  <a href="https://github.com/moh3a/reglini">
+    <img width="40%" align="center" alt="Readme card" src="https://github-readme-stats.vercel.app/api/pin/?username=moh3a&repo=reglini&theme=transparent" />
   </a>
 </div>
 
