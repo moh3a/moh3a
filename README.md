@@ -1,6 +1,10 @@
 <h1>Hello, I'm Moh3A</h1>
 
-<p>Just a passionate of web development.</p>
+<p>Actually, My name is Ait Abdelmalek Mohamed.</p>
+
+<p>With several years of experience in customer service and multiple positions related to industrial production, combined with a solid academic background (M.A) in geotechnics, I find that my ability to acquire new knowledge is my strength. But a few years ago, during my journey, I discovered what I yearned for.</p>
+
+<p>The instant I hit play on my first video explaining how the web works, I couldn't get enough. Web development calls to all my passions. Since then, I have continued to learn new skills, programming languages and technologies and apply them in my projects. I'm still enthusiastically grabbing onto any other programming languages, frameworks or principles I can integrate into my projects whenever I have free time.</p>
 
 <div>
   <h3>🔌 My most used tech...</h3>
